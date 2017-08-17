@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "༼つ◕_◕༽つ"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
-publishDir = "docs"
 # Enable Google Analytics by inserting your tracking code
 # Define how many posts should appear on a site
 paginate = 10
